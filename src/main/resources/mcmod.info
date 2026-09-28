@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Ring Place",
+    "description": "Forge 1.8.9 client mod: silent ring placer only",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["DDmax500"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

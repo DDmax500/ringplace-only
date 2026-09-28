@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+run/
+build/
+.gradle/
+.tools/
+out/
+*.iml
+hs_err_pid*.log
+replay_pid*.log
+*.log
+*.jar
+!gradle/wrapper/gradle-wrapper.jar

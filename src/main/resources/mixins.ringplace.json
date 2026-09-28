@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "${basePackage}.mixin",
+  "plugin": "${basePackage}.init.AutoDiscoveryMixinPlugin",
+  "refmap": "mixins.${modid}.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "priority": 50
+}
